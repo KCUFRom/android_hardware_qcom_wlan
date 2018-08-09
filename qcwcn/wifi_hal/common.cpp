@@ -19,6 +19,7 @@
 #include <netlink/object-api.h>
 #include <netlink-private/object-api.h>
 #include <netlink-private/types.h>
+#include <errno.h>
 #include <dlfcn.h>
 
 #include "wifi_hal.h"
